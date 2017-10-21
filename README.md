@@ -1,2 +1,3 @@
-test:wq
+This is a proof of concept of a technique I made on how to colorise different characters even after they are combined. In short, it asks the system for all points needed to render a text, then it looks for specific pre-known DNA sequences for characters and renders them - at which point you are able to set whatever color you want.
 
+Read the full explanation on my blog post here [http://jontelang.com/blog/2017/10/21/an-approach-to-coloring-parts-of-combined-characters-separately-in-ios.html](http://jontelang.com/blog/2017/10/21/an-approach-to-coloring-parts-of-combined-characters-separately-in-ios.html).
