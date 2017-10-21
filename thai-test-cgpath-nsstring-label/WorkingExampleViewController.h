@@ -8,8 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+#import "DNALabel.h"
+#import "DNASequence.h"
 
+@interface WorkingExampleViewController : UIViewController
+
+@property (weak, nonatomic) IBOutlet DNALabel *label;
 
 @end
 
